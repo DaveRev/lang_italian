@@ -1702,16 +1702,16 @@
 		'decrescente',
 
 		'eighth' => 
-		'ottavo&#x002f;a',
+		'ottavo/a',
 
 		'eleventh' => 
-		'undicesimo&#x002f;a',
+		'undicesimo/a',
 
 		'fifth' => 
-		'quinto&#x002f;a',
+		'quinto/a',
 
 		'first' => 
-		'primo&#x002f;a',
+		'primo/a',
 
 		'forthnight' => 
 		'quindicina',
@@ -1726,7 +1726,7 @@
 		'quindicine',
 
 		'fourth' => 
-		'quarto&#x002f;a',
+		'quarto/a',
 
 		'hour' => 
 		'ora',
@@ -1738,7 +1738,7 @@
 		'ora',
 
 		'last' => 
-		'ultimo&#x002f;a',
+		'ultimo/a',
 
 		'list of comma-separated author usernames.' => 
 		'i nomi di ciascun utente separati da virgola',
@@ -1759,10 +1759,10 @@
 		'mesi',
 
 		'next' => 
-		'prossimo&#x002f;a',
+		'prossimo/a',
 
 		'ninth' => 
-		'nono&#x002f;a',
+		'nono/a',
 
 		'no leading zeros' => 
 		'nessun zero iniziale',
@@ -1771,7 +1771,7 @@
 		'ora',
 
 		'previous' => 
-		'scorso&#x002f;a',
+		'scorso/a',
 
 		'random' => 
 		'casuale',
@@ -1780,7 +1780,7 @@
 		'rilasciata il',
 
 		'second' => 
-		'secondo&#x002f;a',
+		'secondo/a',
 
 		'seconds' => 
 		'secondi',
@@ -1789,19 +1789,19 @@
 		'sec',
 
 		'seventh' => 
-		'settimo&#x002f;a',
+		'settimo/a',
 
 		'sixth' => 
-		'sesto&#x002f;a',
+		'sesto/a',
 
 		'tenth' => 
-		'decimo&#x002f;a',
+		'decimo/a',
 
 		'third' => 
-		'terzo&#x002f;a',
+		'terzo/a',
 
 		'this' => 
-		'questo&#x002f;a',
+		'questo/a',
 
 		'today' => 
 		'oggi',
@@ -1810,7 +1810,7 @@
 		'domani',
 
 		'twelfth' => 
-		'dodicesimo&#x002f;a',
+		'dodicesimo/a',
 
 		'week' => 
 		'settimana',
