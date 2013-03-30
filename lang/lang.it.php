@@ -14,6 +14,21 @@
 	 * Symphony Core
 	 */
 	$dictionary = array(
+		
+		/**
+	 	* Symphony 2.3.2
+	 	*/
+		
+		'Expand all fields' =>
+		'Espandi tutte le voci',
+
+		'Collapse all fields' =>
+		'Comprimi tutte le voci',
+		
+		/*
+		* End
+		*/
+
 
 		' (<b>Notice that it is possible to get mixtures of success and failure messages when using the "Allow Multiple" option</b>)' => 
 		'(<b>N.B. &#232; possibile che utilizzando l\'opzione "Consenti l\'invio di pi&#249; voci" si possano ottenere sia messaggi di conferma che messaggi d\'errore</b>)',
